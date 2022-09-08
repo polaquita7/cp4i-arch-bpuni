@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'Integration Deep Dive - BP University',
+        name: 'Integration Deep Dive - IBM BP University',
         icon: 'src/images/favicon.svg',
         short_name: 'Integration Deep Dive',
       },
