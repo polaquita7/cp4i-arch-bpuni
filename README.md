@@ -1,31 +1,36 @@
-# Gatsby Theme Carbon Starter
+# CP4i Architectural Session - BP University
 
-## What is this?
 
-> Gatsby [themes](https://www.gatsbyjs.org/docs/themes/) encapsulate all of the
-> configuration and implementation details of Gatsby websites. This is a
-> starter-kit (boilerplate) with a dependancy on the `gatsby-theme-carbon`
-> package. The primary goal of `gatsby-theme-carbon` is to get content authors
-> speaking the IBM Design Language with Carbon as soon as possible. It includes
-> some sample components/content demos in the `src/pages` directory.
 
-## How do I use it?
+## Links
 
-Check out our quick
-[getting started](https://gatsby-theme-carbon.now.sh/getting-started) guide and
-video!
 
-`gatsby-theme-carbon` at it’s core relies on [mdx](https://mdxjs.com/) for page
-creation. Check out the `src/pages` directory for some examples for using mdx.
+## Available Commands
 
-A key feature of Gatsby themes is component shadowing. By simply placing a
-component into the `src/gatsby-theme-carbon/components` location, you can
-override components used by the theme. You can read more about component
-shadowing
-[here](https://www.gatsbyjs.org/docs/themes/api-reference#component-shadowing).
+In the project directory, you can run:
 
-You’re also free to make your own components and use them in your MDX pages.
+### `"npm run dev"
 
-## What’s Next?
+To have a local version of the site running and see the changes you're doing.
 
-[Check out the docs!](https://gatsby-theme-carbon.now.sh)
+## Built With
+
+- Gatsby
+- Gatsby Theme Carbon
+- NPM
+
+## Future Updates
+
+- [ ] TBD
+
+## Author
+
+**Cecilia Bel**
+
+- [Email](mailto:belcecilia@ar.ibm.com "Hi!")
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
