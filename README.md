@@ -9,9 +9,7 @@
 
 In the project directory, you can run:
 
-### `"npm run dev"
-
-To have a local version of the site running and see the changes you're doing.
+`npm run dev`  To have a local version of the site running and see the changes you're doing.
 
 ## Built With
 
@@ -29,7 +27,7 @@ To have a local version of the site running and see the changes you're doing.
 
 - [Email](mailto:belcecilia@ar.ibm.com "Hi!")
 
-## 🤝 Support
+## Support
 
 Contributions, issues, and feature requests are welcome!
 
