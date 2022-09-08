@@ -11,8 +11,8 @@ const links = [
     href: 'https://www.carbondesignsystem.com',
   },
   {
-    title: 'Configuration guide',
-    href: '/guides/configuration',
+    title: 'Cloud Pak Deployment Guides',
+    href: 'https://production-gitops.dev/',
   },
 ];
 
