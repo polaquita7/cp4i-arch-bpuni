@@ -4,7 +4,7 @@ module.exports = {
     description: 'A Gatsby theme for the carbon design system',
     keywords: 'gatsby,theme,carbon',
   },
-  pathPrefix: '/cp4i-arch-bpuni',
+  pathPrefix: '/cp4i-arch-bpuni/public',
   plugins: [
     {
       resolve: 'gatsby-plugin-manifest',
